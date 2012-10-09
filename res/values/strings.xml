@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, QRPresensiActivity!</string>
+    <string name="app_name">QRPresensi</string>
+    <string name="splash_screen">by : UID Access Network Laboratory</string>
+    <string name="splash_screen_image">gambar splash screen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_waktu">Waktu</string>
+
+</resources>
