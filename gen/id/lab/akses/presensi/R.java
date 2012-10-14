@@ -13,24 +13,31 @@ public final class R {
     public static final class drawable {
         public static final int ic_action_search=0x7f020000;
         public static final int ic_launcher=0x7f020001;
-        public static final int splashscreen=0x7f020002;
+        public static final int iptv=0x7f020002;
+        public static final int radio=0x7f020003;
+        public static final int sms_gateway=0x7f020004;
+        public static final int splashscreen=0x7f020005;
+        public static final int voip=0x7f020006;
     }
     public static final class id {
-        public static final int bt=0x7f060004;
-        public static final int bt2=0x7f060003;
-        public static final int creditsText=0x7f060006;
-        public static final int list=0x7f060001;
-        public static final int menu_settings=0x7f060007;
-        public static final int splashimage=0x7f060005;
+        public static final int bt=0x7f060007;
+        public static final int bt2=0x7f060006;
+        public static final int creditsText=0x7f060009;
+        public static final int cur=0x7f060004;
+        public static final int flag=0x7f060002;
+        public static final int listx=0x7f060001;
+        public static final int menu_settings=0x7f06000a;
+        public static final int splashimage=0x7f060008;
         public static final int textView1=0x7f060000;
-        public static final int tv=0x7f060002;
+        public static final int tv=0x7f060005;
+        public static final int txt=0x7f060003;
     }
     public static final class layout {
         public static final int activity_menu=0x7f030000;
-        public static final int activity_waktu=0x7f030001;
-        public static final int fadein=0x7f030002;
-        public static final int fadeout=0x7f030003;
-        public static final int list=0x7f030004;
+        public static final int fadein=0x7f030001;
+        public static final int fadeout=0x7f030002;
+        public static final int list=0x7f030003;
+        public static final int list_layout=0x7f030004;
         public static final int main=0x7f030005;
         public static final int splash=0x7f030006;
     }
@@ -47,5 +54,6 @@ public final class R {
         public static final int splash_screen_image=0x7f040003;
         public static final int title_activity_menu=0x7f040006;
         public static final int title_activity_waktu=0x7f040007;
+        public static final int title_praktikum=0x7f040008;
     }
 }

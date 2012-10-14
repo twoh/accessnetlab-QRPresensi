@@ -8,13 +8,13 @@
         android:id="@+id/textView1"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text=""
-        android:padding="10px"
+        android:text="@string/title_praktikum"
+        android:padding="10dp"
         android:textAppearance="?android:attr/textAppearanceMedium" 
         android:gravity="center"/>
 
     <ListView 
-        android:id="@+id/list"
+        android:id="@+id/listx"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         ></ListView>
